@@ -99,10 +99,11 @@ a{
 }
 
 .progress-bar{
-  border: 1px solid rgba(49, 2, 158, 0.624);
-  background-color: rgba(143, 96, 255, 0.624);
-  height: 4px;
+    border: 1px solid white;
+    background-color: white;
+    height: 4px;
 }
+
 .right-section{
   background-color: rgb(230, 215, 255);
   grid-column: span 1 / span 2;
